@@ -28,20 +28,7 @@ La aplicación facilita la colaboración entre padres, docentes y profesionales 
 - **npm:** v8.0.0 o superior
 - **Cuenta Supabase:** Gratuita
 
-## 🚀 Instalación
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/israelgo93/neurolog-app.git
-cd neurolog-app
-```
-
-### 2. Instalar dependencias
-```bash
-npm install
-```
-
-
+## 🚀 Resultado Final
 
 
 
