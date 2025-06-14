@@ -43,6 +43,8 @@ npm install
 
 
 
-### 2. Resultado de la solucion de errores de la pagina
+
+
+### 4. Resultado de la solucion de errores de la pagina
 
 ![alt text](image.png)
